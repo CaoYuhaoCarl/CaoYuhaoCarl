@@ -1,6 +1,6 @@
 # Cao Yuhao Carl
 
-I build AI-agent tools for learning, knowledge work, and developer workflows.
+I build native AI agents.
 
 My recent work is centered on a simple idea: turn open-ended goals into structured paths, useful feedback loops, and tools that can keep improving with the person using them.
 
