@@ -20,14 +20,6 @@ carl = {
 
 ---
 
-## What I Build
-
-- **Agent gardens** around Pi: prompts, extensions, custom settings, subagents, and P2P workflow experiments.
-- **Learning systems** that turn messy questions into structured paths, exercises, feedback loops, and transfer artifacts.
-- **Knowledge workflows** for personal and small-team thinking: notes, diagrams, source-backed wikis, and practical automation.
-
----
-
 ## Agent Stack
 
 <div align="center">
