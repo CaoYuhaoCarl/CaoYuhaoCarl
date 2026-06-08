@@ -26,4 +26,4 @@ jobs:
         with:
           GH_USERNAME: CaoYuhaoCarl
           COMMIT_MSG: "chore: update recent activity"
-          MAX_LINES: 5
+          MAX_LINES: 3
