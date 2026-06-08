@@ -1,3 +1,5 @@
+<img src="./assets/profile-banner.png" alt="CaoYuhaoCarl banner - English teacher by day, Agent gardener by night" width="100%">
+
 # Cao Yuhao Carl
 
 I build native AI agents.
