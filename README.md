@@ -28,7 +28,7 @@ carl = {
 
 ---
 
-## Agent Engineering Stack
+## Agent Stack
 
 <div align="center">
 
@@ -36,7 +36,6 @@ carl = {
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 [![Google ADK](https://img.shields.io/badge/Google%20ADK-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://github.com/google/adk-python)
 [![Pi Agent](https://img.shields.io/badge/Pi%20Agent-161d27?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA4MDAgODAwIj48cGF0aCBmaWxsPSJ3aGl0ZSIgZmlsbC1ydWxlPSJldmVub2RkIiBkPSJNMTY1LjI5IDE2NS4yOUg1MTcuMzZWNDAwSDQwMFY1MTcuMzZIMjgyLjY1VjYzNC43MkgxNjUuMjlaTTI4Mi42NSAyODIuNjVWNDAwSDQwMFYyODIuNjVaIi8%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik01MTcuMzYgNDAwSDYzNC43MlY2MzQuNzJINTE3LjM2WiIvPjwvc3ZnPg%3D%3D)](https://pi.dev/)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-161b22?style=for-the-badge&logo=githubactions&logoColor=58a6ff)
 
 </div>
 
@@ -51,7 +50,7 @@ carl = {
 
 ---
 
-## Featured Projects
+## Projects
 
 | Project | What it does |
 | --- | --- |
