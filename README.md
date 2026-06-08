@@ -15,9 +15,11 @@
 ```python
 carl = {
     "name": "Cao Yuhao Carl",
-    "role": "English teacher by day; agent gardener by night",
-    "focus": "AI agents that turn questions into mastery paths",
-    "systems": ["Taogen", "SeedX"],
+    "role": "English teacher building practical AI-agent systems",
+    "focus": "learning agents, knowledge workflows, and developer automation",
+    "stack": ["Python", "TypeScript", "Google ADK", "Pi Agent"],
+    "workflow": ["Obsidian", "Excalidraw"],
+    "open_source": "OpenClaw contributor — PR #74465 merged into main and released in v2026.4.29",
     "principle": "Build workflows that are visible, evaluable, and useful after the demo.",
 }
 ```
