@@ -1,12 +1,6 @@
 <img src="./assets/profile-banner.png" alt="CaoYuhaoCarl banner - English teacher by day, Agent gardener by night" width="100%">
 
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=CaoYuhaoCarl&style=for-the-badge&color=0d1117&labelColor=161b22&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/CaoYuhaoCarl?style=for-the-badge&color=0d1117&labelColor=161b22&label=Followers&logo=github)
-![Stars](https://img.shields.io/github/stars/CaoYuhaoCarl?style=for-the-badge&color=0d1117&labelColor=161b22&label=Total+Stars&logo=github)
-
-</div>
+<p align="center"><b><i>Ideas take root. Agents grow.</i></b></p>
 
 ---
 
@@ -15,14 +9,22 @@
 ```python
 carl = {
     "name": "Cao Yuhao Carl",
-    "role": "English teacher building practical AI-agent systems",
-    "focus": "Pi-based agent gardens: extensions, subagents, and P2P workflow experiments",
+    "role": "English teacher growing practical AI-agent systems",
+    "focus": "agent gardens for learning, knowledge work, and developer workflows",
     "stack": ["Python", "TypeScript", "Google ADK", "Pi Agent"],
     "workflow": ["Obsidian", "Excalidraw"],
-    "open_source": "OpenClaw contributor — PR #74465 merged into main and released in v2026.4.29",
-    "principle": "Start from one minimal harness; grow only workflows that stay inspectable, evaluable, and useful.",
+    "open_source": "OpenClaw contributor — PR #74465 merged and released in v2026.4.29",
+    "motto": "Ideas take root. Agents grow.",
 }
 ```
+
+---
+
+## What I Build
+
+- **Agent gardens** around Pi: prompts, extensions, custom settings, subagents, and P2P workflow experiments.
+- **Learning systems** that turn messy questions into structured paths, exercises, feedback loops, and transfer artifacts.
+- **Knowledge workflows** for personal and small-team thinking: notes, diagrams, source-backed wikis, and practical automation.
 
 ---
 
@@ -49,54 +51,19 @@ carl = {
 
 ---
 
-## Open Source Contributions
-
-| Project | Contribution | Status |
-| --- | --- | --- |
-| [**OpenClaw**](https://github.com/openclaw/openclaw) | [PR #74465](https://github.com/openclaw/openclaw/pull/74465#event-24999551397) — `fix(google): prevent empty contents error for gemini`; merged into `main` and included in `v2026.4.29`. | Merged |
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/CaoYuhaoCarl/CaoYuhaoCarl/main/profile-summary-card-output/github_dark/0-profile-details.svg" alt="GitHub profile details card" />
-
-<img src="https://raw.githubusercontent.com/CaoYuhaoCarl/CaoYuhaoCarl/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Repositories per language card" />
-<img src="https://raw.githubusercontent.com/CaoYuhaoCarl/CaoYuhaoCarl/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most commit language card" />
-
-</div>
-
----
-
-## When I Build (UTC+8)
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/CaoYuhaoCarl/CaoYuhaoCarl/main/profile-summary-card-output/github_dark/4-productive-time.svg" alt="Productive time card" />
-<img src="https://raw.githubusercontent.com/CaoYuhaoCarl/CaoYuhaoCarl/main/profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub stats card" />
-
-</div>
-
----
-
 ## Featured Projects
 
-| Project | Stars | What it does |
-| --- | --- | --- |
-| [**Taogen**](https://github.com/CaoYuhaoCarl/Taogen) | ![Stars](https://img.shields.io/github/stars/CaoYuhaoCarl/Taogen?style=flat&color=f5c542&label=Stars) | A Pi-based agent garden for prompts, custom settings, extensions, orchestrated subagents, and P2P communication experiments. |
-| [**SeedX**](https://github.com/CaoYuhaoCarl/seedx) | ![Stars](https://img.shields.io/github/stars/CaoYuhaoCarl/seedx?style=flat&color=f5c542&label=Stars) | Turns messy questions into structured mastery paths with plans, exercises, evaluator loops, and transfer artifacts. |
-| [**learnmate-personalized-english**](https://github.com/CaoYuhaoCarl/learnmate-personalized-english) | ![Stars](https://img.shields.io/github/stars/CaoYuhaoCarl/learnmate-personalized-english?style=flat&color=f5c542&label=Stars) | English coaching agents for writing feedback, speaking practice, vocabulary workouts, and adaptive reports. |
-| [**wikix**](https://github.com/CaoYuhaoCarl/wikix) | ![Stars](https://img.shields.io/github/stars/CaoYuhaoCarl/wikix?style=flat&color=f5c542&label=Stars) | An LLM-maintained wiki scaffold for source-backed personal and small-team knowledge systems. |
+| Project | What it does |
+| --- | --- |
+| [**Taogen**](https://github.com/CaoYuhaoCarl/Taogen) | A Pi-based agent garden for prompts, custom settings, extensions, orchestrated subagents, and P2P communication experiments. |
+| [**SeedX**](https://github.com/CaoYuhaoCarl/seedx) | Turns messy questions into structured mastery paths with plans, exercises, evaluator loops, and transfer artifacts. |
+| [**learnmate-personalized-english**](https://github.com/CaoYuhaoCarl/learnmate-personalized-english) | English coaching agents for writing feedback, speaking practice, vocabulary workouts, and adaptive reports. |
 
 ---
 
-## Recent Activity
+## Open Source
 
-<!--START_SECTION:activity-->
-1. 🚀 Published release [v0.4.0](https://github.com/CaoYuhaoCarl/learnmate-personalized-english/releases/tag/v0.4.0) in [CaoYuhaoCarl/learnmate-personalized-english](https://github.com/CaoYuhaoCarl/learnmate-personalized-english)
-<!--END_SECTION:activity-->
+- [**OpenClaw**](https://github.com/openclaw/openclaw): [PR #74465](https://github.com/openclaw/openclaw/pull/74465#event-24999551397) — `fix(google): prevent empty contents error for gemini`; merged into `main` and released in `v2026.4.29`.
 
 ---
 
@@ -109,3 +76,29 @@ carl = {
 [![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/694398969)
 
 </div>
+
+---
+
+<details>
+<summary><b>GitHub Stats</b></summary>
+
+<br>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/CaoYuhaoCarl/CaoYuhaoCarl/main/profile-summary-card-output/github_dark/0-profile-details.svg" alt="GitHub profile details card" />
+
+<img src="https://raw.githubusercontent.com/CaoYuhaoCarl/CaoYuhaoCarl/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Repositories per language card" />
+<img src="https://raw.githubusercontent.com/CaoYuhaoCarl/CaoYuhaoCarl/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most commit language card" />
+
+</div>
+
+</details>
+
+---
+
+## Recent Activity
+
+<!--START_SECTION:activity-->
+1. 🚀 Published release [v0.4.0](https://github.com/CaoYuhaoCarl/learnmate-personalized-english/releases/tag/v0.4.0) in [CaoYuhaoCarl/learnmate-personalized-english](https://github.com/CaoYuhaoCarl/learnmate-personalized-english)
+<!--END_SECTION:activity-->
