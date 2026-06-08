@@ -46,6 +46,14 @@ carl = {
 
 ---
 
+## Open Source Contributions
+
+| Project | Contribution | Status |
+| --- | --- | --- |
+| [**OpenClaw**](https://github.com/openclaw/openclaw) | [PR #74465](https://github.com/openclaw/openclaw/pull/74465#event-24999551397) — `fix(google): prevent empty contents error for gemini`; merged into `main` and included in `v2026.4.29`. | Merged |
+
+---
+
 ## GitHub Stats
 
 <div align="center">
