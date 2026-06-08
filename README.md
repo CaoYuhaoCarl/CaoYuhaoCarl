@@ -106,5 +106,6 @@ carl = {
 
 [![GitHub](https://img.shields.io/badge/CaoYuhaoCarl-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CaoYuhaoCarl)
 [![X](https://img.shields.io/badge/@CaoYuhaoCarl-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/CaoYuhaoCarl)
+[![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/694398969)
 
 </div>
