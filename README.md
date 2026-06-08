@@ -2,6 +2,10 @@
 
 <p align="center"><b><i>Ideas take root. Agents grow.</i></b></p>
 
+<p align="center">
+  <img src="./assets/dog.gif" alt="A small animated dog mascot" width="150">
+</p>
+
 ---
 
 ## `> whoami`
@@ -96,7 +100,3 @@ carl = {
 2. 🎉 Merged PR [#12](https://github.com/CaoYuhaoCarl/learnmate-personalized-english/pull/12) — `[codex] localize report section headings` in [CaoYuhaoCarl/learnmate-personalized-english](https://github.com/CaoYuhaoCarl/learnmate-personalized-english)
 3. 🎉 Merged PR [#11](https://github.com/CaoYuhaoCarl/learnmate-personalized-english/pull/11) — `[codex] document PDF export dependencies` in [CaoYuhaoCarl/learnmate-personalized-english](https://github.com/CaoYuhaoCarl/learnmate-personalized-english)
 <!--END_SECTION:activity-->
-
-<p align="center">
-  <img src="./assets/dog.gif" alt="A small animated dog mascot" width="160">
-</p>
