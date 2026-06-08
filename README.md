@@ -76,7 +76,7 @@ carl = {
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-Loading recent GitHub activity from the scheduled workflow.
+1. 🚀 Published release [v0.4.0](https://github.com/CaoYuhaoCarl/learnmate-personalized-english/releases/tag/v0.4.0) in [CaoYuhaoCarl/learnmate-personalized-english](https://github.com/CaoYuhaoCarl/learnmate-personalized-english)
 <!--END_SECTION:activity-->
 
 ---
