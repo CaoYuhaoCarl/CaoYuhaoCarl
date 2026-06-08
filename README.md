@@ -24,14 +24,22 @@ carl = {
 
 ---
 
-## Tech Stack
+## Agent Engineering Stack
 
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-1f5f9f?style=for-the-badge&logo=typescript&logoColor=3178c6)
-![AI Agents](https://img.shields.io/badge/AI%20Agents-0d1117?style=for-the-badge&logo=openai&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Google ADK](https://img.shields.io/badge/Google%20ADK-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Pi Agent](https://img.shields.io/badge/Pi%20Agent-0d1117?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-161b22?style=for-the-badge&logo=githubactions&logoColor=58a6ff)
+
+</div>
+
+## Workflow
+
+<div align="center">
+
 ![Obsidian](https://img.shields.io/badge/Obsidian-2d1b69?style=for-the-badge&logo=obsidian&logoColor=white)
 
 </div>
