@@ -16,7 +16,7 @@ Currently building [**Taogen**](https://github.com/CaoYuhaoCarl/Taogen) — a Pi
 
 - 🌿 Exploring: Google ADK, LangGraph, and Pi Agent
 - ✍️ Thinking with: Obsidian and Excalidraw
-- 🤝 Open source: OpenClaw contributor — PR #74465 merged and released in `v2026.4.29`
+- 🤝 Open source: [OpenClaw](https://github.com/openclaw/openclaw) contributor — [PR #74465](https://github.com/openclaw/openclaw/pull/74465#event-24999551397) merged and released in `v2026.4.29`
 - 🐶 Motto: Ideas take root. Agents grow.
 
 ---
