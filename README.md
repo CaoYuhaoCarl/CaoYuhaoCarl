@@ -11,7 +11,7 @@ carl = {
     "name": "Cao Yuhao Carl",
     "role": "English teacher growing practical AI-agent systems",
     "focus": "agent gardens for learning, knowledge work, and developer workflows",
-    "stack": ["Python", "TypeScript", "Google ADK", "Pi Agent"],
+    "stack": ["Python", "TypeScript", "Google ADK", "LangGraph", "Pi Agent"],
     "workflow": ["Obsidian", "Excalidraw"],
     "open_source": "OpenClaw contributor — PR #74465 merged and released in v2026.4.29",
     "motto": "Ideas take root. Agents grow.",
@@ -35,6 +35,7 @@ carl = {
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 [![Google ADK](https://img.shields.io/badge/Google%20ADK-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://github.com/google/adk-python)
+[![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)](https://github.com/langchain-ai/langgraph)
 [![Pi Agent](https://img.shields.io/badge/Pi%20Agent-161d27?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA4MDAgODAwIj48cGF0aCBmaWxsPSJ3aGl0ZSIgZmlsbC1ydWxlPSJldmVub2RkIiBkPSJNMTY1LjI5IDE2NS4yOUg1MTcuMzZWNDAwSDQwMFY1MTcuMzZIMjgyLjY1VjYzNC43MkgxNjUuMjlaTTI4Mi42NSAyODIuNjVWNDAwSDQwMFYyODIuNjVaIi8%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik01MTcuMzYgNDAwSDYzNC43MlY2MzQuNzJINTE3LjM2WiIvPjwvc3ZnPg%3D%3D)](https://pi.dev/)
 
 </div>
