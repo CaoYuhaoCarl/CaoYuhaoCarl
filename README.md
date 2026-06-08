@@ -40,7 +40,8 @@ carl = {
 
 <div align="center">
 
-![Obsidian](https://img.shields.io/badge/Obsidian-2d1b69?style=for-the-badge&logo=obsidian&logoColor=white)
+[![Obsidian](https://img.shields.io/badge/Obsidian-2d1b69?style=for-the-badge&logo=obsidian&logoColor=white)](https://obsidian.md)
+[![Excalidraw](https://img.shields.io/badge/Excalidraw-6965DB?style=for-the-badge&logo=excalidraw&logoColor=white)](https://excalidraw.com/)
 
 </div>
 
