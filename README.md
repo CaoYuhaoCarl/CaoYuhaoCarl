@@ -8,19 +8,16 @@
 
 ---
 
-## `> whoami`
+## Hi, I'm Carl 🌱
 
-```python
-carl = {
-    "name": "Cao Yuhao Carl",
-    "role": "English teacher growing practical AI-agent systems",
-    "focus": "agent gardens for learning, knowledge work, and developer workflows",
-    "stack": ["Python", "TypeScript", "Google ADK", "LangGraph", "Pi Agent"],
-    "workflow": ["Obsidian", "Excalidraw"],
-    "open_source": "OpenClaw contributor — PR #74465 merged and released in v2026.4.29",
-    "motto": "Ideas take root. Agents grow.",
-}
-```
+I teach English and grow practical AI-agent systems for learning, knowledge work, and developer workflows.
+
+Currently building [**Taogen**](https://github.com/CaoYuhaoCarl/Taogen) — a Pi-based agent garden for prompts, extensions, subagents, and P2P workflow experiments.
+
+- 🌿 Exploring: Google ADK, LangGraph, and Pi Agent
+- ✍️ Thinking with: Obsidian and Excalidraw
+- 🤝 Open source: OpenClaw contributor — PR #74465 merged and released in `v2026.4.29`
+- 🐶 Motto: Ideas take root. Agents grow.
 
 ---
 
