@@ -2,38 +2,47 @@
 
 # Cao Yuhao Carl
 
-I build native AI agents.
+**English teacher by day, agent gardener by night.**
 
-My recent work is centered on a simple idea: turn open-ended goals into structured paths, useful feedback loops, and tools that can keep improving with the person using them.
+I build native AI agents and learning systems that turn open-ended questions into structured mastery paths, observable agent workflows, and feedback loops that keep improving with the person using them.
 
-## Current Focus
+## Main Threads
 
-- Personalized English learning agents: writing feedback, speaking practice, vocabulary workouts, and adaptive exercises.
-- Agent engineering: multi-agent workflows, skill systems, custom agent UIs, and orchestration experiments.
-- Knowledge systems: LLM-maintained wikis, mastery paths, and structured personal or team knowledge bases.
-- Practical automation: Feishu integrations, config tooling, and developer workflow helpers.
+### Taogen
 
-## Recent Projects
+An agent workspace for building agents. Taogen starts from a minimal Pi terminal harness and grows into a multi-model, multi-agent environment with prompts, settings, extensions, subagents, and optional P2P communication.
 
-| Project | What it does | Stack / topics |
+### SeedX
+
+A question-to-mastery system. Give it a messy work or learning question; SeedX plans the goal, builds the learning package, evaluates and repairs weak parts, and leaves a visible trail of prompts, state, artifacts, and agent handoffs.
+
+## What I Am Building Toward
+
+- **Executable learning paths**: briefs, maps, exercises, checkpoints, application plans, and transfer plans that can actually be followed.
+- **Observable agent teams**: parent orchestrators, role-specific subagents, event logs, run state, and visualizers for long multi-agent work.
+- **Education workflows**: writing feedback, speaking practice, vocabulary workouts, learner memory, and adaptive exercises.
+- **Knowledge systems**: file-backed wikis, mastery maps, and personal or team knowledge bases that preserve source trails.
+
+## Featured Projects
+
+| Project | Focus | Why it matters |
 | --- | --- | --- |
-| [learnmate-personalized-english](https://github.com/CaoYuhaoCarl/learnmate-personalized-english) | Personalized English learning agents, including an English coach that turns writing images into structured feedback and reports. | TypeScript, Google ADK, English learning, agents |
-| [Taogen](https://github.com/CaoYuhaoCarl/Taogen) | Experiments around building agents that can help create, refine, and evaluate other agents. | JavaScript, AI agents, Codex, Claude Code, Gemini CLI, skills |
-| [seedx](https://github.com/CaoYuhaoCarl/seedx) | Turns ideas and questions into structured mastery paths with plans, exercises, checkpoints, and real-world transfer. | HTML, multi-agent workflows, learning systems, Feishu, Obsidian |
-| [pi-agent](https://github.com/CaoYuhaoCarl/pi-agent) | Playground for custom agent UIs, orchestration, and agent-to-agent communication. | TypeScript, agent orchestration |
-| [wikix](https://github.com/CaoYuhaoCarl/wikix) | LLM-maintained wiki scaffold for personal and small-organization knowledge bases. | LLM wiki, knowledge graph, Obsidian, Codex |
-| [building-artivocab-workout](https://github.com/CaoYuhaoCarl/building-artivocab-workout) | Skill for turning English articles into Chinese-English vocabulary cloze worksheets with validation scripts. | Python, vocabulary learning, cloze questions |
-| [clash_party_with_smart_config_kit](https://github.com/CaoYuhaoCarl/clash_party_with_smart_config_kit) | Smart configuration tooling around Clash Party profiles and local proxy setup. | JavaScript, config automation |
+| [Taogen](https://github.com/CaoYuhaoCarl/Taogen) | Agent-building workspace | A Pi-based agent garden for prompts, custom settings, extensions, orchestrated subagents, and P2P agent communication experiments. |
+| [SeedX](https://github.com/CaoYuhaoCarl/seedx) | Question-to-mastery engine | Turns messy questions into complete learning packages with planning, deliverables, evaluator loops, and observable run history. |
+| [learnmate-personalized-english](https://github.com/CaoYuhaoCarl/learnmate-personalized-english) | Personalized English learning | English coaching agents for writing feedback, speaking practice, vocabulary workouts, and adaptive learning reports. |
+| [wikix](https://github.com/CaoYuhaoCarl/wikix) | Agent-maintained knowledge base | A wiki scaffold for personal and small-team knowledge systems, designed for LLM-maintained structure and traceable source material. |
 
 ## Working Style
 
-I like tools that are:
+I like agent systems that are:
 
 - concrete enough to ship,
 - structured enough to evaluate,
-- flexible enough to adapt to a learner or operator,
-- and simple enough to keep using after the first demo.
+- visible enough to debug,
+- flexible enough to adapt to a learner,
+- and simple enough to keep using after the demo.
 
 ## Links
 
 - GitHub: [CaoYuhaoCarl](https://github.com/CaoYuhaoCarl)
+- X: [@CaoYuhaoCarl](https://x.com/CaoYuhaoCarl)
