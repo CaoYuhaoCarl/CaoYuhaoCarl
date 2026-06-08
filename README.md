@@ -30,8 +30,8 @@ carl = {
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Google ADK](https://img.shields.io/badge/Google%20ADK-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Pi Agent](https://img.shields.io/badge/Pi%20Agent-0d1117?style=for-the-badge&logo=github&logoColor=white)
+[![Google ADK](https://img.shields.io/badge/Google%20ADK-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://github.com/google/adk-python)
+[![Pi Agent](https://img.shields.io/badge/Pi%20Agent-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://pi.dev/)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-161b22?style=for-the-badge&logo=githubactions&logoColor=58a6ff)
 
 </div>
