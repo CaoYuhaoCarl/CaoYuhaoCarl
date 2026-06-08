@@ -16,11 +16,11 @@
 carl = {
     "name": "Cao Yuhao Carl",
     "role": "English teacher building practical AI-agent systems",
-    "focus": "learning agents, knowledge workflows, and developer automation",
+    "focus": "Pi-based agent gardens: extensions, subagents, and P2P workflow experiments",
     "stack": ["Python", "TypeScript", "Google ADK", "Pi Agent"],
     "workflow": ["Obsidian", "Excalidraw"],
     "open_source": "OpenClaw contributor — PR #74465 merged into main and released in v2026.4.29",
-    "principle": "Build workflows that are visible, evaluable, and useful after the demo.",
+    "principle": "Start from one minimal harness; grow only workflows that stay inspectable, evaluable, and useful.",
 }
 ```
 
