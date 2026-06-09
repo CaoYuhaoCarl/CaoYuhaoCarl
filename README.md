@@ -25,11 +25,16 @@ Currently building [**Taogen**](https://github.com/CaoYuhaoCarl/Taogen) — a Pi
 
 ## Contribution
 
-<a href="https://github.com/openclaw/openclaw">
-  <img src="./assets/openclaw-card.png" alt="OpenClaw contribution card" width="320">
-</a>
+<div align="center">
+  <a href="https://github.com/openclaw/openclaw">
+    <img src="./assets/openclaw-card.png" alt="OpenClaw contribution card" width="280">
+  </a>
 
-[PR #74465](https://github.com/openclaw/openclaw/pull/74465#event-24999551397) — `fix(google): prevent empty contents error for gemini`; merged into `main` and released in `v2026.4.29`.
+  <p>
+    <a href="https://github.com/openclaw/openclaw/pull/74465#event-24999551397"><b>PR #74465</b></a> — fix(google): prevent empty contents error for gemini<br>
+    <sub>merged into main · released in v2026.4.29</sub>
+  </p>
+</div>
 
 ---
 
