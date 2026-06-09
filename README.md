@@ -23,17 +23,6 @@ Currently building [**Taogen**](https://github.com/CaoYuhaoCarl/Taogen) — a Pi
 
 </div>
 
-## Workflow
-
-<div align="center">
-
-[![Obsidian](https://img.shields.io/badge/Obsidian-2d1b69?style=for-the-badge&logo=obsidian&logoColor=white)](https://obsidian.md)
-[![Excalidraw](https://img.shields.io/badge/Excalidraw-6965DB?style=for-the-badge&logo=excalidraw&logoColor=white)](https://excalidraw.com/)
-
-</div>
-
----
-
 ## Contribution
 
 - [**OpenClaw**](https://github.com/openclaw/openclaw): [PR #74465](https://github.com/openclaw/openclaw/pull/74465#event-24999551397) — `fix(google): prevent empty contents error for gemini`; merged into `main` and released in `v2026.4.29`.
