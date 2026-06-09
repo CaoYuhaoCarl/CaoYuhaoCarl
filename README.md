@@ -1,13 +1,3 @@
-<img src="./assets/profile-banner.png" alt="CaoYuhaoCarl banner - English teacher by day, Agent gardener by night" width="100%">
-
-<p align="center"><b><i>Ideas take root. Agents grow.</i></b></p>
-
-<p align="center">
-  <img src="./assets/dog.gif" alt="A small animated dog mascot" width="150">
-</p>
-
----
-
 ## Hi, I'm Carl 🌱
 
 I teach English and grow practical AI-agent systems for learning, knowledge work, and developer workflows.
