@@ -27,7 +27,7 @@ Currently building [**Taogen**](https://github.com/CaoYuhaoCarl/Taogen) — a Pi
 
 <div align="center">
   <a href="https://github.com/openclaw/openclaw">
-    <img src="./assets/openclaw-card.png" alt="OpenClaw contribution card" width="280">
+    <img src="./assets/openclaw-card-compact.png" alt="OpenClaw contribution card" width="250">
   </a>
 
   <p>
