@@ -6,7 +6,7 @@ Currently building [**Taogen**](https://github.com/CaoYuhaoCarl/Taogen) — a Pi
 
 - 🌿 Exploring: Google ADK, LangGraph, and Pi Agent
 - ✍️ Thinking with: Obsidian and Excalidraw
-- 🤝 Open source: [OpenClaw](https://github.com/openclaw/openclaw) contributor — [PR #74465](https://github.com/openclaw/openclaw/pull/74465#event-24999551397) merged and released in `v2026.4.29`
+- 🤝 Open source: [OpenClaw](https://github.com/openclaw/openclaw) contributor — [PR #74465](https://github.com/openclaw/openclaw/pull/74465#event-24999551397) merged and included in `v2026.4.29`
 - 🐶 Motto: Ideas take root. Agents grow.
 
 ---
@@ -36,7 +36,7 @@ Currently building [**Taogen**](https://github.com/CaoYuhaoCarl/Taogen) — a Pi
 
   <p>
     <a href="https://github.com/openclaw/openclaw/pull/74465#event-24999551397"><b>PR #74465</b></a> — fix(google): prevent empty contents error for gemini<br>
-    <sub>merged into main · released in v2026.4.29</sub>
+    <sub>merged into main · included in v2026.4.29</sub>
   </p>
 </div>
 
