@@ -57,9 +57,9 @@ Currently building [**Taogen**](https://github.com/CaoYuhaoCarl/Taogen) — a Pi
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.4.0](https://github.com/CaoYuhaoCarl/learnmate-personalized-english/releases/tag/v0.4.0) in [CaoYuhaoCarl/learnmate-personalized-english](https://github.com/CaoYuhaoCarl/learnmate-personalized-english)
-2. 🎉 Merged PR [#12](https://github.com/CaoYuhaoCarl/learnmate-personalized-english/pull/12) — `[codex] localize report section headings` in [CaoYuhaoCarl/learnmate-personalized-english](https://github.com/CaoYuhaoCarl/learnmate-personalized-english)
-3. 🎉 Merged PR [#11](https://github.com/CaoYuhaoCarl/learnmate-personalized-english/pull/11) — `[codex] document PDF export dependencies` in [CaoYuhaoCarl/learnmate-personalized-english](https://github.com/CaoYuhaoCarl/learnmate-personalized-english)
+1. 🚀 Published release [v0.4.0](https://github.com/CaoYuhaoCarl/Taogen/releases/tag/v0.4.0) in [CaoYuhaoCarl/Taogen](https://github.com/CaoYuhaoCarl/Taogen)
+2. 🎉 Merged PR [#19](https://github.com/CaoYuhaoCarl/Taogen/pull/19) — `[codex] Add sticky header and ignore local artifacts` in [CaoYuhaoCarl/Taogen](https://github.com/CaoYuhaoCarl/Taogen)
+3. 🚀 Published release [v0.4.0](https://github.com/CaoYuhaoCarl/learnmate-personalized-english/releases/tag/v0.4.0) in [CaoYuhaoCarl/learnmate-personalized-english](https://github.com/CaoYuhaoCarl/learnmate-personalized-english)
 <!--END_SECTION:activity-->
 
 ---
