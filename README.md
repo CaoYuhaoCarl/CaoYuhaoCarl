@@ -57,9 +57,9 @@ Currently building [**Taogen**](https://github.com/CaoYuhaoCarl/Taogen) — a Pi
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.5.0](https://github.com/CaoYuhaoCarl/Taogen/releases/tag/v0.5.0) in [CaoYuhaoCarl/Taogen](https://github.com/CaoYuhaoCarl/Taogen)
-2. 🎉 Merged PR [#25](https://github.com/CaoYuhaoCarl/Taogen/pull/25) — `[codex] Add agent workspace instructions` in [CaoYuhaoCarl/Taogen](https://github.com/CaoYuhaoCarl/Taogen)
-3. 🎉 Merged PR [#26](https://github.com/CaoYuhaoCarl/Taogen/pull/26) — `[codex] Remove Taogen sticky header bar` in [CaoYuhaoCarl/Taogen](https://github.com/CaoYuhaoCarl/Taogen)
+1. 🎉 Merged PR [#30](https://github.com/CaoYuhaoCarl/Taogen/pull/30) — `Re-theme comms-net viewer with dark neutral palette and initials-based node labels` in [CaoYuhaoCarl/Taogen](https://github.com/CaoYuhaoCarl/Taogen)
+2. 🎉 Merged PR [#28](https://github.com/CaoYuhaoCarl/Taogen/pull/28) — `[codex] Improve README onboarding` in [CaoYuhaoCarl/Taogen](https://github.com/CaoYuhaoCarl/Taogen)
+3. 🎉 Merged PR [#29](https://github.com/CaoYuhaoCarl/Taogen/pull/29) — `Add AGENTS.md mirroring CLAUDE.md for cross-agent conventions` in [CaoYuhaoCarl/Taogen](https://github.com/CaoYuhaoCarl/Taogen)
 <!--END_SECTION:activity-->
 
 ---
