@@ -57,9 +57,9 @@ Currently building [**Taogen**](https://github.com/CaoYuhaoCarl/Taogen) — a Pi
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.4.0](https://github.com/CaoYuhaoCarl/Taogen/releases/tag/v0.4.0) in [CaoYuhaoCarl/Taogen](https://github.com/CaoYuhaoCarl/Taogen)
-2. 🎉 Merged PR [#19](https://github.com/CaoYuhaoCarl/Taogen/pull/19) — `[codex] Add sticky header and ignore local artifacts` in [CaoYuhaoCarl/Taogen](https://github.com/CaoYuhaoCarl/Taogen)
-3. 🚀 Published release [v0.4.0](https://github.com/CaoYuhaoCarl/learnmate-personalized-english/releases/tag/v0.4.0) in [CaoYuhaoCarl/learnmate-personalized-english](https://github.com/CaoYuhaoCarl/learnmate-personalized-english)
+1. 🎉 Merged PR [#22](https://github.com/CaoYuhaoCarl/Taogen/pull/22) — `[codex] Improve viewer group chat feed` in [CaoYuhaoCarl/Taogen](https://github.com/CaoYuhaoCarl/Taogen)
+2. 🎉 Merged PR [#21](https://github.com/CaoYuhaoCarl/Taogen/pull/21) — `[codex] clarify viewer waiting state` in [CaoYuhaoCarl/Taogen](https://github.com/CaoYuhaoCarl/Taogen)
+3. 🎉 Merged PR [#20](https://github.com/CaoYuhaoCarl/Taogen/pull/20) — `[codex] improve comms-net viewer state handling` in [CaoYuhaoCarl/Taogen](https://github.com/CaoYuhaoCarl/Taogen)
 <!--END_SECTION:activity-->
 
 ---
