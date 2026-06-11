@@ -57,9 +57,9 @@ Currently building [**Taogen**](https://github.com/CaoYuhaoCarl/Taogen) — a Pi
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#22](https://github.com/CaoYuhaoCarl/Taogen/pull/22) — `[codex] Improve viewer group chat feed` in [CaoYuhaoCarl/Taogen](https://github.com/CaoYuhaoCarl/Taogen)
-2. 🎉 Merged PR [#21](https://github.com/CaoYuhaoCarl/Taogen/pull/21) — `[codex] clarify viewer waiting state` in [CaoYuhaoCarl/Taogen](https://github.com/CaoYuhaoCarl/Taogen)
-3. 🎉 Merged PR [#20](https://github.com/CaoYuhaoCarl/Taogen/pull/20) — `[codex] improve comms-net viewer state handling` in [CaoYuhaoCarl/Taogen](https://github.com/CaoYuhaoCarl/Taogen)
+1. 🚀 Published release [v0.5.0](https://github.com/CaoYuhaoCarl/Taogen/releases/tag/v0.5.0) in [CaoYuhaoCarl/Taogen](https://github.com/CaoYuhaoCarl/Taogen)
+2. 🎉 Merged PR [#25](https://github.com/CaoYuhaoCarl/Taogen/pull/25) — `[codex] Add agent workspace instructions` in [CaoYuhaoCarl/Taogen](https://github.com/CaoYuhaoCarl/Taogen)
+3. 🎉 Merged PR [#26](https://github.com/CaoYuhaoCarl/Taogen/pull/26) — `[codex] Remove Taogen sticky header bar` in [CaoYuhaoCarl/Taogen](https://github.com/CaoYuhaoCarl/Taogen)
 <!--END_SECTION:activity-->
 
 ---
