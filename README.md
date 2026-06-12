@@ -57,9 +57,9 @@ Currently building [**Taogen**](https://github.com/CaoYuhaoCarl/Taogen) — a Pi
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#30](https://github.com/CaoYuhaoCarl/Taogen/pull/30) — `Re-theme comms-net viewer with dark neutral palette and initials-based node labels` in [CaoYuhaoCarl/Taogen](https://github.com/CaoYuhaoCarl/Taogen)
-2. 🎉 Merged PR [#28](https://github.com/CaoYuhaoCarl/Taogen/pull/28) — `[codex] Improve README onboarding` in [CaoYuhaoCarl/Taogen](https://github.com/CaoYuhaoCarl/Taogen)
-3. 🎉 Merged PR [#29](https://github.com/CaoYuhaoCarl/Taogen/pull/29) — `Add AGENTS.md mirroring CLAUDE.md for cross-agent conventions` in [CaoYuhaoCarl/Taogen](https://github.com/CaoYuhaoCarl/Taogen)
+1. 🎉 Merged PR [#31](https://github.com/CaoYuhaoCarl/Taogen/pull/31) — `Add P2P any-initiator support scenario` in [CaoYuhaoCarl/Taogen](https://github.com/CaoYuhaoCarl/Taogen)
+2. 🎉 Merged PR [#33](https://github.com/CaoYuhaoCarl/Taogen/pull/33) — `[codex] Add scenario skills demo` in [CaoYuhaoCarl/Taogen](https://github.com/CaoYuhaoCarl/Taogen)
+3. 🎉 Merged PR [#32](https://github.com/CaoYuhaoCarl/Taogen/pull/32) — `Add comms-net await watchdog` in [CaoYuhaoCarl/Taogen](https://github.com/CaoYuhaoCarl/Taogen)
 <!--END_SECTION:activity-->
 
 ---
