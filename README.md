@@ -1,13 +1,9 @@
 ## Hi, I'm Carl 🌱
 
-I teach English and grow practical AI-agent systems for learning, knowledge work, and developer workflows.
+I grow practical AI-agent systems for learning, knowledge work, and developer workflows.
 
-Currently building [**Taogen**](https://github.com/CaoYuhaoCarl/Taogen) — a Pi-based agent garden for prompts, extensions, subagents, and P2P workflow experiments.
-
-- 🌿 Exploring: Google ADK, LangGraph, and Pi Agent
-- ✍️ Thinking with: Obsidian and Excalidraw
+- 🌿 Exploring: Google ADK, LangGraph, dsh and Pi Agent
 - 🤝 Open source: [OpenClaw](https://github.com/openclaw/openclaw) contributor — [PR #74465](https://github.com/openclaw/openclaw/pull/74465#event-24999551397) merged and included in `v2026.4.29`
-- 🐶 Motto: Ideas take root. Agents grow.
 
 ---
 
