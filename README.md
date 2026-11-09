@@ -52,16 +52,6 @@ Currently building [**Taogen**](https://github.com/CaoYuhaoCarl/Taogen) — a Pi
 
 ---
 
-## Recent Activity
-
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#31](https://github.com/CaoYuhaoCarl/Taogen/pull/31) — `Add P2P any-initiator support scenario` in [CaoYuhaoCarl/Taogen](https://github.com/CaoYuhaoCarl/Taogen)
-2. 🎉 Merged PR [#33](https://github.com/CaoYuhaoCarl/Taogen/pull/33) — `[codex] Add scenario skills demo` in [CaoYuhaoCarl/Taogen](https://github.com/CaoYuhaoCarl/Taogen)
-3. 🎉 Merged PR [#32](https://github.com/CaoYuhaoCarl/Taogen/pull/32) — `Add comms-net await watchdog` in [CaoYuhaoCarl/Taogen](https://github.com/CaoYuhaoCarl/Taogen)
-<!--END_SECTION:activity-->
-
----
-
 <details>
 <summary><b>GitHub Stats</b></summary>
 
