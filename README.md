@@ -2,7 +2,7 @@
 
 I grow practical AI-agent systems for learning, knowledge work, and developer workflows.
 
-- 🌿 Exploring: Google ADK, LangGraph, dsh and Pi Agent
+- 🌿 Exploring: Agent
 - 🤝 Open source: [OpenClaw](https://github.com/openclaw/openclaw) contributor — [PR #74465](https://github.com/openclaw/openclaw/pull/74465#event-24999551397) merged and included in `v2026.4.29`
 - 🤝 Open source: [SAG Wiki](https://github.com/Zleap-AI/SAG-Wiki) contributor — [PR #57](https://github.com/Zleap-AI/SAG-Wiki/pull/57) merged into main via [#79](https://github.com/Zleap-AI/SAG-Wiki/pull/79) and included in `v0.2.9`
 
