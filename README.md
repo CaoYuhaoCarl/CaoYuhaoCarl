@@ -20,7 +20,7 @@ I grow practical AI-agent systems for learning, knowledge work, and developer wo
   </a>
 
   <p>
-    <a href="https://github.com/openclaw/openclaw/pull/74465#event-24999551397"><b>PR #74465</b></a> — fix(google): prevent empty contents error for gemini<br>
+  
   </p>
 
   <a href="https://github.com/Zleap-AI/SAG-Wiki">
