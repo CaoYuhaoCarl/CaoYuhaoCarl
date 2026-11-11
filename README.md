@@ -21,7 +21,6 @@ I grow practical AI-agent systems for learning, knowledge work, and developer wo
 
   <p>
     <a href="https://github.com/openclaw/openclaw/pull/74465#event-24999551397"><b>PR #74465</b></a> — fix(google): prevent empty contents error for gemini<br>
-    <sub>merged into main · included in v2026.4.29</sub>
   </p>
 
   <a href="https://github.com/Zleap-AI/SAG-Wiki">
@@ -33,8 +32,7 @@ I grow practical AI-agent systems for learning, knowledge work, and developer wo
   </a>
 
   <p>
-    <a href="https://github.com/Zleap-AI/SAG-Wiki/pull/57"><b>PR #57</b></a> — fix(models): avoid unsupported token limits in connection tests<br>
-    <sub>merged into main via <a href="https://github.com/Zleap-AI/SAG-Wiki/pull/79">#79</a> · included in v0.2.9</sub>
+    <a href="https://github.com/Zleap-AI/SAG-Wiki/pull/79"><b>PR #79</b></a> — fix(models): avoid unsupported token limits in connection tests<br>
   </p>
 </div>
 
