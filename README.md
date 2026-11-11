@@ -32,7 +32,7 @@ I grow practical AI-agent systems for learning, knowledge work, and developer wo
   </a>
 
   <p>
-    <a href="https://github.com/Zleap-AI/SAG-Wiki/pull/79"><b>PR #79</b></a> — fix(models): avoid unsupported token limits in connection tests<br>
+    
   </p>
 </div>
 
