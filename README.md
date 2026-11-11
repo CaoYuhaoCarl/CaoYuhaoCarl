@@ -4,6 +4,7 @@ I grow practical AI-agent systems for learning, knowledge work, and developer wo
 
 - 🌿 Exploring: Google ADK, LangGraph, dsh and Pi Agent
 - 🤝 Open source: [OpenClaw](https://github.com/openclaw/openclaw) contributor — [PR #74465](https://github.com/openclaw/openclaw/pull/74465#event-24999551397) merged and included in `v2026.4.29`
+- 🤝 Open source: [SAG Wiki](https://github.com/Zleap-AI/SAG-Wiki) contributor — [PR #57](https://github.com/Zleap-AI/SAG-Wiki/pull/57) merged into main via [#79](https://github.com/Zleap-AI/SAG-Wiki/pull/79) and included in `v0.2.9`
 
 ---
 
@@ -21,6 +22,19 @@ I grow practical AI-agent systems for learning, knowledge work, and developer wo
   <p>
     <a href="https://github.com/openclaw/openclaw/pull/74465#event-24999551397"><b>PR #74465</b></a> — fix(google): prevent empty contents error for gemini<br>
     <sub>merged into main · included in v2026.4.29</sub>
+  </p>
+
+  <a href="https://github.com/Zleap-AI/SAG-Wiki">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/sag-wiki-card-outline-dark.png">
+      <source media="(prefers-color-scheme: light)" srcset="./assets/sag-wiki-card-outline-light.png">
+      <img src="./assets/sag-wiki-card-outline-light.png" alt="SAG Wiki contribution card" width="244">
+    </picture>
+  </a>
+
+  <p>
+    <a href="https://github.com/Zleap-AI/SAG-Wiki/pull/57"><b>PR #57</b></a> — fix(models): avoid unsupported token limits in connection tests<br>
+    <sub>merged into main via <a href="https://github.com/Zleap-AI/SAG-Wiki/pull/79">#79</a> · included in v0.2.9</sub>
   </p>
 </div>
 
