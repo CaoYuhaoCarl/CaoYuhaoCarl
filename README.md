@@ -10,31 +10,9 @@ I grow practical AI-agent systems for learning, knowledge work, and developer wo
 
 ## Contribution
 
-<div align="center">
-  <a href="https://github.com/openclaw/openclaw">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./assets/openclaw-card-outline-dark.png">
-      <source media="(prefers-color-scheme: light)" srcset="./assets/openclaw-card-outline-light.png">
-      <img src="./assets/openclaw-card-outline-light.png" alt="OpenClaw contribution card" width="244">
-    </picture>
-  </a>
-
-  <p>
-  
-  </p>
-
-  <a href="https://github.com/Zleap-AI/SAG-Wiki">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./assets/sag-wiki-card-outline-dark.png">
-      <source media="(prefers-color-scheme: light)" srcset="./assets/sag-wiki-card-outline-light.png">
-      <img src="./assets/sag-wiki-card-outline-light.png" alt="SAG Wiki contribution card" width="244">
-    </picture>
-  </a>
-
-  <p>
-    
-  </p>
-</div>
+<p align="center">
+  <a href="https://github.com/openclaw/openclaw"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/openclaw-card-outline-dark.png"><source media="(prefers-color-scheme: light)" srcset="./assets/openclaw-card-outline-light.png"><img src="./assets/openclaw-card-outline-light.png" alt="OpenClaw contribution card" width="244"></picture></a>&nbsp;&nbsp;<a href="https://github.com/Zleap-AI/SAG-Wiki"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/sag-wiki-card-outline-dark.png"><source media="(prefers-color-scheme: light)" srcset="./assets/sag-wiki-card-outline-light.png"><img src="./assets/sag-wiki-card-outline-light.png" alt="SAG Wiki contribution card" width="244"></picture></a>
+</p>
 
 ---
 
